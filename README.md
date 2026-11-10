@@ -172,17 +172,11 @@ Ambiente interativo de pesquisa federada com indexação por CATMAT, consulta co
 ---
 
 ### 3. Automação do Fluxo de Trabalho & Extração Federada
-Demonstração da agilidade no processamento de dezenas de itens simultâneos, reduzindo etapas manuais para uma jornada fluida.
+Demonstração do fluxo operacional de ponta a ponta: do acesso institucional ao painel analítico da UASG, navegação por pesquisa federada de itens, suporte do assistente jurídico de IA (Dr. Evandrinho), consulta de fornecedores no SICAF e gestão de pregões.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│            <!-- [Inserir GIF do fluxo de automação aqui] -->                 │
-│                                                                             │
-│            (Fluxo ponta a ponta: da busca por CATMAT à minuta SEI)          │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="docs/screenshots/siscomini_workflow_demo.gif" alt="Demonstração do Fluxo de Trabalho Automatizado — SisComINI" width="100%" />
+</p>
 
 ---
 
