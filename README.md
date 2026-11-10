@@ -54,8 +54,16 @@
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
+      <a href="#-dr-evandrinho-quando-o-legado-da-ciência-pública-encontra-a-ia-generativa">
+        <img src="https://img.shields.io/badge/04-Dr._Evandrinho-8E75FF?style=for-the-badge" /><br/><br/>
+        <b>🧬 IA Dr. Evandrinho</b>
+      </a>
+      <br/><br/>
+      <sub>Copiloto jurídico humanizado, combinando o legado científico da Fiocruz com IA generativa e Lei 14.133.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
       <a href="#️-galeria-de-interfaces--automação-showcase">
-        <img src="https://img.shields.io/badge/04-Showcase-D97706?style=for-the-badge" /><br/><br/>
+        <img src="https://img.shields.io/badge/05-Showcase-D97706?style=for-the-badge" /><br/><br/>
         <b>🖼️ Telas & Demonstração</b>
       </a>
       <br/><br/>
@@ -63,19 +71,11 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="#-nota-de-governança-segurança-e-compliance">
-        <img src="https://img.shields.io/badge/05-Segurança-DC2626?style=for-the-badge" /><br/><br/>
+        <img src="https://img.shields.io/badge/06-Segurança-DC2626?style=for-the-badge" /><br/><br/>
         <b>🔒 Governança & LGPD</b>
       </a>
       <br/><br/>
       <sub>Diretrizes da Fiocruz, conformidade com a LGPD, padrões ISO/IEC 27001 e soberania de dados públicos.</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="#-liderança-técnica--engenharia">
-        <img src="https://img.shields.io/badge/06-Tech_Lead-0F172A?style=for-the-badge" /><br/><br/>
-        <b>👨‍💻 Liderança & Contato</b>
-      </a>
-      <br/><br/>
-      <sub>Visão de Engenharia de Software, competências aplicadas em GovTech e perfis de contato profissional.</sub>
     </td>
   </tr>
 </table>
@@ -93,15 +93,17 @@
   - [Cloudflare Workers & Borda Serverless](#1-borda-distribuída-serverless-cloudflare-workers)
   - [Estratégia de AI-UX & GenUI (Generative User Interface)](#2-inteligência-artificial-generativa-para-interfaces-ai-ux--genui)
   - [Diagrama de Arquitetura do Sistema (Mermaid)](#3-diagrama-de-arquitetura-do-sistema)
-- **4. [Galeria de Interfaces & Automação (Showcase)](#️-galeria-de-interfaces--automação-showcase)**
+- **4. [Dr. Evandrinho: Quando o Legado da Ciência Pública Encontra a IA Generativa](#-dr-evandrinho-quando-o-legado-da-ciência-pública-encontra-a-ia-generativa)**
+  - Homenagem ao Dr. Evandro Chagas • Quem Ele É: IA Treinada para o Setor Público • Três Pilares de Inovação
+- **5. [Galeria de Interfaces & Automação (Showcase)](#️-galeria-de-interfaces--automação-showcase)**
   - [1. Painel Executivo Central de Contratações](#1-painel-executivo-central-de-contratações)
-  - [2. Studio de Pesquisa de Preços & Copiloto Jurídico em IA (Dr. Evandrinho)](#2-studio-de-pesquisa-de-preços--copiloto-jurídico-em-ia-dr-evandrinho)
+  - [2. Studio de Pesquisa de Preços & Copiloto Jurídico em IA](#2-studio-de-pesquisa-de-preços--copiloto-jurídico-em-ia-dr-evandrinho)
   - [3. Automação do Fluxo de Trabalho & Extração Federada (GIF Animado)](#3-automação-do-fluxo-de-trabalho--extração-federada)
   - [4. Raio-X do Fornecedor & Consulta Cadastral de Habilitação (SICAF)](#4-raio-x-do-fornecedor--consulta-cadastral-de-habilitação-sicaf)
   - [5. Controle e Acompanhamento de Pregões Eletrônicos (UASG 254492)](#5-controle-e-acompanhamento-de-pregões-eletrônicos-uasg-254492)
   - [6. Monitoramento de Notas Fiscais Eletrônicas (Transparência CGU)](#6-monitoramento-de-notas-fiscais-eletrônicas-transparência-cgu)
-- **5. [Nota de Governança, Segurança e Compliance](#-nota-de-governança-segurança-e-compliance)**
-- **6. [Liderança Técnica & Engenharia](#-liderança-técnica--engenharia)**
+- **6. [Nota de Governança, Segurança e Compliance](#-nota-de-governança-segurança-e-compliance)**
+- **7. [Liderança Técnica & Engenharia](#-liderança-técnica--engenharia)**
 
 </details>
 
@@ -216,6 +218,35 @@ flowchart TD
     Gemini -->|Inferência Jurídica & GenUI| AIUX
     AIUX --> UI
 ```
+
+---
+
+## 🧬 Dr. Evandrinho: Quando o Legado da Ciência Pública Encontra a IA Generativa
+
+> *"A inovação em GovTech não deve ser fria ou distante. Ela ganha força transformadora quando honra a história institucional e coloca a inteligência artificial a serviço do servidor que zela pela saúde pública."*
+
+Em contraste com abordagens corporativas convencionais que implementam chatbots genéricos, despersonalizados e dissociados do dia a dia do serviço público, o **SisComINI** introduz um marco de inovação humanizada e originalidade: o **Dr. Evandrinho**.
+
+<p align="center">
+  <img src="docs/screenshots/08_dr_evandrinho_quem_e_ele.png" alt="Quem é o Dr. Evandrinho — Modal Institucional de Inteligência Artificial" width="90%" />
+</p>
+
+### 🏛️ A Origem do Nome & A Homenagem Histórica
+O carinhoso diminutivo **"Dr. Evandrinho"** é uma homenagem viva ao médico, cientista e pesquisador pioneiro **Dr. Evandro Serafim Lobo Chagas (1905–1940)** — filho primogênito de Carlos Chagas —, cuja dedicação incansável à medicina tropical, à ciência pública e à saúde das populações vulneráveis dá nome ao próprio **Instituto Nacional de Infectologia Evandro Chagas (INI / Fiocruz)**.
+
+Assim como o Dr. Evandro desbravava o interior do Brasil em busca de diagnósticos e soluções para endemias com rigor técnico e paixão pela vida, o **Dr. Evandrinho** foi arquitetado para ser o companheiro leal, acolhedor e infatigável do servidor público no labirinto das contratações públicas e pesquisas de preços da **UASG 254492**.
+
+### 💡 Os Três Pilares de Inovação do Dr. Evandrinho:
+
+1. **Inteligência Jurídico-Estatística por Design (Lei 14.133/2021 & TCU)**:
+   - Não se trata de uma IA generalista de conversação. O Dr. Evandrinho foi calibrado para dominar os meandros da **Lei nº 14.133/2021**, da **Instrução Normativa SEGES/ME nº 65/2021** e das jurisprudências do **Tribunal de Contas da União (TCU)**.
+   - Avalia dispersões com **Coeficiente de Variação (CV ≤ 25%)**, expurga sobrepreços e inexequibilidades pela mediana (±25%), apoia a elaboração de Estudos Técnicos Preliminares (ETP) e redige minutas técnicas no padrão SEI.
+
+2. **AI-UX & GenUI Reativa (A IA que Interage com a Interface)**:
+   - Superando o modelo passivo de chat, o Dr. Evandrinho opera como um copiloto interativo: projeta *chips* dinâmicos na tela, sugere filtros de homologação, aciona consultas de vigência de atas e injeta blocos estruturados diretamente nos editores de minuta.
+
+3. **Princípio Inegociável dos Dados Concretos (Zero Alucinação)**:
+   - No setor de compras públicas federais, qualquer dado inventado gera nulidade ou apontamento em auditorias. O Dr. Evandrinho atua sob barreiras estritas de integridade: se as bases do PNCP, Compras.gov.br ou CGU não possuírem registros, ele declara expressamente a ausência de dados, sem jamais simular cotações ou fornecedores fictícios.
 
 ---
 
