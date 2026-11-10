@@ -23,17 +23,87 @@
 
 ---
 
-## 📑 Sumário
+## 🧭 Mapa de Navegação Executiva
 
-- [🌟 Visão Geral & O Impacto](#-visão-geral--o-impacto)
-- [⚖️ O Problema vs. A Solução (Marco Legal 14.133/2021)](#️-o-problema-vs-a-solução-marco-legal-141332021)
-- [🏗️ Arquitetura & Engenharia de Software](#️-arquitetura--engenharia-de-software)
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="#-visão-geral--o-impacto">
+        <img src="https://img.shields.io/badge/01-Visão_Geral-059669?style=for-the-badge" /><br/><br/>
+        <b>🌟 O Impacto</b>
+      </a>
+      <br/><br/>
+      <sub>Transformação da burocracia em celeridade, eficiência de custos e apoio direto à saúde pública e à ciência.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#️-o-problema-vs-a-solução-marco-legal-141332021">
+        <img src="https://img.shields.io/badge/02-Marco_Legal-2563EB?style=for-the-badge" /><br/><br/>
+        <b>⚖️ Problema vs. Solução</b>
+      </a>
+      <br/><br/>
+      <sub>A nova Lei 14.133/2021, cesta de preços paramétrica, expurgo de sobrepreço e eliminação de riscos ao erário.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#️-arquitetura--engenharia-de-software">
+        <img src="https://img.shields.io/badge/03-Engenharia-7C3AED?style=for-the-badge" /><br/><br/>
+        <b>🏗️ Arquitetura & Borda</b>
+      </a>
+      <br/><br/>
+      <sub>Cloudflare Workers Edge Serverless, agregador resiliente de APIs governamentais e ecossistema GenUI / AI-UX.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="#️-galeria-de-interfaces--automação-showcase">
+        <img src="https://img.shields.io/badge/04-Showcase-D97706?style=for-the-badge" /><br/><br/>
+        <b>🖼️ Telas & Demonstração</b>
+      </a>
+      <br/><br/>
+      <sub>Galeria completa de capturas em 1080p e animação fluida (GIF) do fluxo operacional ponta a ponta.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#-nota-de-governança-segurança-e-compliance">
+        <img src="https://img.shields.io/badge/05-Segurança-DC2626?style=for-the-badge" /><br/><br/>
+        <b>🔒 Governança & LGPD</b>
+      </a>
+      <br/><br/>
+      <sub>Diretrizes da Fiocruz, conformidade com a LGPD, padrões ISO/IEC 27001 e soberania de dados públicos.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#-liderança-técnica--engenharia">
+        <img src="https://img.shields.io/badge/06-Tech_Lead-0F172A?style=for-the-badge" /><br/><br/>
+        <b>👨‍💻 Liderança & Contato</b>
+      </a>
+      <br/><br/>
+      <sub>Visão de Engenharia de Software, competências aplicadas em GovTech e perfis de contato profissional.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📑 Clique aqui para expandir o Índice Detalhado com subtópicos</b></summary>
+
+<br/>
+
+- **1. [Visão Geral & O Impacto](#-visão-geral--o-impacto)**
+  - Aceleração Operacional Radical • Confiabilidade Matemática & Estatística • Rastreabilidade SEI • Impacto no SUS e na Ciência
+- **2. [O Problema vs. A Solução (Marco Legal 14.133/2021)](#️-o-problema-vs-a-solução-marco-legal-141332021)**
+  - Matriz comparativa: Formação da Cesta de Preços, Saneamento Paramétrico, Habilitação Unificada e Nota Técnica SEI
+- **3. [Arquitetura & Engenharia de Software](#️-arquitetura--engenharia-de-software)**
   - [Cloudflare Workers & Borda Serverless](#1-borda-distribuída-serverless-cloudflare-workers)
   - [Estratégia de AI-UX & GenUI (Generative User Interface)](#2-inteligência-artificial-generativa-para-interfaces-ai-ux--genui)
-  - [Diagrama Conceitual do Ecossistema](#3-diagrama-de-arquitetura-do-sistema)
-- [🖼️ Galeria de Interfaces & Automação (Showcase)](#️-galeria-de-interfaces--automação-showcase)
-- [🔒 Nota de Governança, Segurança e Compliance](#-nota-de-governança-segurança-e-compliance)
-- [👨‍💻 Liderança Técnica & Engenharia](#-liderança-técnica--engenharia)
+  - [Diagrama de Arquitetura do Sistema (Mermaid)](#3-diagrama-de-arquitetura-do-sistema)
+- **4. [Galeria de Interfaces & Automação (Showcase)](#️-galeria-de-interfaces--automação-showcase)**
+  - [1. Painel Executivo Central de Contratações](#1-painel-executivo-central-de-contratações)
+  - [2. Studio de Pesquisa de Preços & Copiloto Jurídico em IA (Dr. Evandrinho)](#2-studio-de-pesquisa-de-preços--copiloto-jurídico-em-ia-dr-evandrinho)
+  - [3. Automação do Fluxo de Trabalho & Extração Federada (GIF Animado)](#3-automação-do-fluxo-de-trabalho--extração-federada)
+  - [4. Raio-X do Fornecedor & Consulta Cadastral de Habilitação (SICAF)](#4-raio-x-do-fornecedor--consulta-cadastral-de-habilitação-sicaf)
+  - [5. Controle e Acompanhamento de Pregões Eletrônicos (UASG 254492)](#5-controle-e-acompanhamento-de-pregões-eletrônicos-uasg-254492)
+  - [6. Monitoramento de Notas Fiscais Eletrônicas (Transparência CGU)](#6-monitoramento-de-notas-fiscais-eletrônicas-transparência-cgu)
+- **5. [Nota de Governança, Segurança e Compliance](#-nota-de-governança-segurança-e-compliance)**
+- **6. [Liderança Técnica & Engenharia](#-liderança-técnica--engenharia)**
+
+</details>
 
 ---
 
