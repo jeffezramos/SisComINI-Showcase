@@ -154,32 +154,20 @@ flowchart TD
 > *Nota: Os registros demonstrados abaixo exibem cenários em ambiente de demonstração arquitetural, em consonância com a política de integridade de dados e proteção de processos em andamento.*
 
 ### 1. Painel Executivo Central de Contratações
-Visão panorâmica em tempo real das pesquisas em elaboração, status de DFDs vinculadas ao Plano de Contratações Anual (PCA) e indicadores de eficiência.
+Visão panorâmica em tempo real das pesquisas em elaboração, status de DFDs vinculadas ao Plano de Contratações Anual (PCA), métricas e indicadores de eficiência da UASG 254492.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│               <!-- [Inserir Screenshot da Dashboard aqui] -->               │
-│                                                                             │
-│        (Painel gerencial integrado com métricas em tempo real da UASG)      │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="docs/screenshots/02_dashboard_executiva.png" alt="Painel Executivo Dashboard — SisComINI" width="100%" />
+</p>
 
 ---
 
-### 2. Studio de Pesquisa de Preços & Cesta de Amostras Homogêneas
-Ambiente interativo onde o servidor insere itens por código CATMAT/CATSER, aciona a busca federada e visualiza instantaneamente a dispersão de preços, cálculo da mediana e saneamento paramétrico.
+### 2. Studio de Pesquisa de Preços & Copiloto Jurídico em IA (Dr. Evandrinho)
+Ambiente interativo de pesquisa federada com indexação por CATMAT, consulta com cálculo de Coeficiente de Variação (CV ≤ 25%) e assistente de IA jurídica contextual em tempo real.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│        <!-- [Inserir Screenshot do Studio de Pesquisa de Preços aqui] -->   │
-│                                                                             │
-│       (Cesta paramétrica de preços com interruptores de inclusão/expurgo)    │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="docs/screenshots/03_studio_pesquisa_precos_resultado.png" alt="Studio de Pesquisa de Preços com Assistente Dr. Evandrinho" width="100%" />
+</p>
 
 ---
 
@@ -198,18 +186,30 @@ Demonstração da agilidade no processamento de dezenas de itens simultâneos, r
 
 ---
 
-### 4. Assistente Jurídico em IA & Minutas SEI em 2 Quadrantes
-Interface com painel lateral assistido por IA: síntese técnica com fundamentação jurídica à esquerda e editor de minuta para o SEI à direita.
+### 4. Raio-X do Fornecedor & Consulta Cadastral de Habilitação (SICAF)
+Varredura de regularidade fiscal, jurídica e de sanções administrativas com emissão de certidões e histórico cadastral.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│      <!-- [Inserir Screenshot da Geração de Nota Técnica SEI com AI aqui] -->│
-│                                                                             │
-│         (Minuta estruturada com justificativa legal automática e edição)    │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="docs/screenshots/04_raio_x_fornecedores_habilitacao.png" alt="Raio-X de Fornecedores e Habilitação SICAF" width="100%" />
+</p>
+
+---
+
+### 5. Controle e Acompanhamento de Pregões Eletrônicos (UASG 254492)
+Gestão das 11 fases do Pregão Eletrônico, controle de prazos de sessão, itens homologados, desertos, cancelados e integração com o PNCP.
+
+<p align="center">
+  <img src="docs/screenshots/06_controle_pregoes_uasg254492.png" alt="Controle de Pregões Eletrônicos da UASG 254492" width="100%" />
+</p>
+
+---
+
+### 6. Monitoramento de Notas Fiscais Eletrônicas (Transparência CGU)
+Consulta e cruzamento de NFe emitidas para a administração pública federal por chave de 44 dígitos, CNPJ ou CATMAT.
+
+<p align="center">
+  <img src="docs/screenshots/07_notas_fiscais_cgu.png" alt="Módulo de Notas Fiscais Eletrônicas via CGU" width="100%" />
+</p>
 
 ---
 
